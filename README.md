@@ -4,25 +4,16 @@
    </a>
 </p>
 <h1 align="center">
-    Cấu trúc dữ liệu và giải thuật nâng cao - CS523.M21.KHCL
+    Phát triển ứng dụng đa phương tiện trên thiết bị di động - CS526.N11.KHCL
 </h1>
 
-<h2>
-   Giới thiệu môn học   
-</h2>
 
-- **Tên môn học:** Cấu trúc dữ liệu và giải thuật nâng cao
-- **Mã môn học:** CS523
-- **Mã lớp:** CS523.M21.KHCL
-- **Năm học:** HK2 (2021-2022)
-- **Giảng viên:** Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn
 
 <h2>
    Giới thiệu nhóm
 </h2>
 
-- **Nhóm:** 1
-- **Số thứ tự nhóm:** 2
+
 - **Thông tin thành viên**
 
 <table align="center">
@@ -42,14 +33,14 @@
        <td>20521693@gm.uit.edu.vn</td>  
       </tr>
       <tr>
-       <td>Lê Thành Đạt </td>
-       <td>17520332</td>
-       <td>17520332@gm.uit.edu.vn</td>  
+       <td>Nguyễn Minh Nhật</td>
+       <td>2052</td>
+       <td>2052@gm.uit.edu.vn</td>  
       </tr>
 </table>
 
 <h2>
-  Chủ đề Semminar
+  Chủ đề 
 </h2>
 
-- ***Tên chủ đề:*** String matching- Đối sánh chuỗi
+- ***Tên chủ đề:*** Virtural calculator
