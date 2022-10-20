@@ -34,8 +34,8 @@
       </tr>
       <tr>
        <td>Nguyễn Minh Nhật</td>
-       <td>2052</td>
-       <td>2052@gm.uit.edu.vn</td>  
+       <td>20521708</td>
+       <td>20521708@gm.uit.edu.vn</td>  
       </tr>
 </table>
 
