@@ -43,4 +43,4 @@
   Chủ đề 
 </h2>
 
-- ***Tên chủ đề:*** Virtural calculator
+- ***Tên chủ đề:*** Virtual calculator
